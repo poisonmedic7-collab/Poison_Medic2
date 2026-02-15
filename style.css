@@ -1,1 +1,17 @@
+body {
+  margin: 0;
+  background: black;
+  color: #39ff14;
+  font-family: Arial, sans-serif;
+}
 
+.hero {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
